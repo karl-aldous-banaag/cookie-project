@@ -1,0 +1,2408 @@
+AR_1
+ 3.0 cups all purpose flour
+ 2.0 cups semisweet chocolate chips
+ 1.0 teaspoon baking soda
+ 1.0 cup packed brown sugar
+ 2.0 teaspoons hot water
+ 1.0 cup chopped walnuts
+ 2.0 teaspoons vanilla extract
+ 1.0 cup white sugar
+ 0.5 teaspoon salt
+ 1.0 cup butter softened
+ 2.0 eggs
+ 0.920724583
+AR_10
+ 0.8 teaspoon salt
+ 1.6 cups semisweet chocolate chips
+ 2.8000000000000003 cups all purpose flour
+ 0.8 teaspoon baking soda
+ 0.8 cup packed light brown sugar
+ 0.8 tablespoon vanilla extract
+ 0.8 cup chopped pecans optional
+ 0.8 cup white sugar
+ 0.5333333333333333 cup butter softened
+ 0.5333333333333333 cup butter flavored shortening
+ 1.6 eggs
+ 0.905162048
+AR_101
+ 0.27692307692307694 teaspoon salt
+ 0.7384615384615385 teaspoons baking powder
+ 0.7384615384615385 tablespoons real maple syrup
+ 0.7384615384615385 teaspoons baking soda
+ 0.7384615384615385 cups packed brown sugar
+ 1.476923076923077 eggs
+ 0.36923076923076925 cup margarine
+ 1.8461538461538463 cups rolled oats
+ 1.1076923076923078 cups chopped walnuts
+ 0.7384615384615385 cups white sugar
+ 0.36923076923076925 cup vegetable oil
+ 1.1076923076923078 teaspoons vanilla extract
+ 7.92 ounce packages semisweet chocolate chips
+ 2.6 ounce bar milk chocolate candy bar such as hershey's® cut into pieces
+ 0.36923076923076925 cup finely ground graham cracker crumbs
+ 1.1076923076923078 cups all purpose flour
+ 0.6
+AR_102
+ 0.6666666666666666 cup butter softened
+ 1.3333333333333333 teaspoon baking soda
+ 1.3333333333333333 teaspoon vanilla extract
+ 1.0 cup brown sugar
+ 0.3333333333333333 cup white sugar
+ 16 ounce bag chocolate chips
+ 2.6666666666666665 eggs
+ 0.6666666666666666 cup margarine softened
+ 3.333333333333333 cups sifted all purpose flour
+ 1.3333333333333333 3.5 ounce package instant vanilla pudding mix
+ 0.9375
+AR_103
+ 9.600000000000001 ounces semisweet chocolate chips
+ 0.8 tablespoon vanilla extract
+ 4.800000000000001 1.4 ounce bars chocolate covered english toffee chopped
+ 0.8 cup butter softened
+ 1.6 eggs
+ 0.4 cup white sugar
+ 0.8 teaspoon salt
+ 0.9 teaspoons baking soda
+ 0.4 cup packed brown sugar
+ 2.0 cups all purpose flour
+ 0.88125
+AR_107
+ 4.0 teaspoon baking soda
+ 2.0 teaspoon salt
+ 8.0 tablespoons milk
+ 3.0 cup white sugar
+ 3.0 cup packed brown sugar
+ 8.0 eggs
+ 9.0 cups unbleached all purpose flour
+ 4.0 teaspoon coconut extract
+ 12.0 cups semisweet chocolate chips
+ 2.0 cup shortening
+ 0.927272701
+AR_108
+ 1.1428571428571428 eggs
+ 0.8571428571428571 cups all purpose flour
+ 0.5714285714285714 teaspoon salt
+ 0.5714285714285714 teaspoon baking soda
+ 0.5714285714285714 teaspoon vanilla extract
+ 0.5714285714285714 cup packed brown sugar
+ 1.1428571428571428 cups semisweet chocolate chips
+ 1.1428571428571428 cups rolled oats
+ 0.5714285714285714 cup shortening
+ 0.2857142857142857 cup white sugar
+ 0.867741966
+AR_109
+ 2.6666666666666665 teaspoons cream of tartar
+ 0.6666666666666666 teaspoon salt
+ 2.6666666666666665 cups all purpose flour
+ 1.3333333333333333 teaspoons baking soda
+ 0.6666666666666666 cup white sugar
+ 1.3333333333333333 eggs
+ 1.3333333333333333 teaspoons vanilla extract
+ 0.6666666666666666 cup packed brown sugar
+ 0.6666666666666666 cup shortening
+ 1.3333333333333333 cups semisweet chocolate chips
+ 0.6666666666666666 cup vegetable oil
+ 0.871794891
+AR_11
+ 2.6666666666666665 cups semisweet chocolate chips
+ 1.3333333333333333 cup packed brown sugar
+ 1.3333333333333333 teaspoon salt
+ 3.333333333333333 cups all purpose flour
+ 1.3333333333333333 teaspoon baking soda
+ 2.6666666666666665 eggs
+ 0.6666666666666666 cup white sugar
+ 1.3333333333333333 teaspoon vanilla extract
+ 1.3333333333333333 cup butter
+ 0.902891922
+AR_110
+ 1.0 cup vegetable oil
+ 1.0 cup butter
+ 1.0 teaspoon vanilla extract
+ 1.0 teaspoon baking soda
+ 1.0 teaspoon cream of tartar
+ 1.0 cup packed light brown sugar
+ 2.0 cups semisweet chocolate chips
+ 1.0 teaspoon salt
+ 0.5 cup chopped walnuts
+ 1.0 cup white sugar
+ 1.0 egg
+ 4.0 cups all purpose flour
+ 1.0 tablespoon milk
+ 0.868292713
+AR_111
+ 24 ounce package semisweet chocolate chips
+ 1.0 cup shortening
+ 1.0 cup butter softened
+ 4.0 eggs
+ 2.0 teaspoon vanilla extract
+ 1.0 cup white sugar
+ 5.0 cups all purpose flour or more as needed
+ 2.0 cup packed brown sugar
+ 1.0 teaspoon baking soda
+ 1.0
+AR_113
+ 2.6666666666666665 tablespoons vegetable oil
+ 15.11 ounce package semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 24.333 ounce package yellow cake mix
+ 0.8
+AR_116
+ 0.25 teaspoon baking soda
+ 0.5 cup white sugar
+ 0.25 cup packed brown sugar
+ 1.0 teaspoon vanilla extract
+ 1.25 cups semisweet chocolate chips
+ 1.125 cups all purpose flour
+ 0.5 cup shortening
+ 1.0 egg
+ 0.25 teaspoon salt
+ 0.847999954
+AR_118
+ 0.8 teaspoon baking soda
+ 0.8 cup white sugar
+ 0.8 teaspoon salt
+ 2.0 cups all purpose flour
+ 0.4 cup packed brown sugar
+ 0.4 cup wheat germ
+ 1.6 eggs
+ 1.2000000000000002 cups semisweet chocolate chips
+ 0.8 cup shortening
+ 1.6 teaspoons vanilla extract
+ 0.8 cup crispy rice cereal
+ 0.830769253
+AR_119
+ 1.25 cups white sugar
+ 1.0 tablespoon vanilla extract
+ 2.0 cups semisweet chocolate chips
+ 1.0 cup cake flour
+ 1.0 cup chopped walnuts optional
+ 1.5 cups butter softened
+ 1.0 teaspoon baking powder
+ 3.5 cups all purpose flour
+ 1.0 teaspoon baking soda
+ 1.25 cups packed brown sugar
+ 2.0 eggs
+ 0.845714283
+AR_12
+ 2.0 teaspoons vanilla extract
+ 1.0 cup butter softened
+ 1.0 cup packed brown sugar
+ 2.5 cups flour
+ 0.5 cup granulated sugar
+ 0.5 teaspoon ground cinnamon optional
+ 1.0 teaspoon salt
+ 1.0 cup coarsely chopped nuts
+ 1.0 teaspoon baking soda
+ 2.0 eggs
+ 12 ounce bag semi sweet chocolate chips
+ 0.873469353
+AR_128
+ 4.0 eggs
+ 2.0 teaspoon vanilla extract
+ 1.5 cup white sugar
+ 1.5 cup brown sugar
+ 2.0 teaspoon coffee flavored liqueur
+ 2.0 teaspoon baking soda
+ 2.0 cup butter melted
+ 2.0 teaspoon salt
+ 4.0 cups semisweet chocolate chips
+ 4.5 cups all purpose flour
+ 0.714285707
+AR_13
+ 2.0 teaspoon baking soda
+ 2.0 cup chopped walnuts
+ 1.0 cup white sugar
+ 2.0 cup shortening
+ 2.0 cup packed brown sugar
+ 4.5 cups all purpose flour
+ 4.0 cup semisweet chocolate chips
+ 2.0 teaspoon salt
+ 4.0 egg
+ 2.0 teaspoon vanilla extract
+ 0.909016418
+AR_14
+ 0.6666666666666666 cup packed brown sugar
+ 0.6666666666666666 cup unsalted butter
+ 1.3333333333333333 cups all purpose flour
+ 0.6666666666666666 teaspoon salt
+ 1.0 cups chopped walnuts
+ 0.6666666666666666 teaspoon baking powder
+ 1.3333333333333333 eggs
+ 1.3333333333333333 tablespoons milk
+ 1.3333333333333333 teaspoons vanilla extract
+ 0.6666666666666666 cup white sugar
+ 1.6666666666666665 cups rolled oats
+ 2.0 cups semisweet chocolate chips
+ 0.6666666666666666 teaspoon baking soda
+ 0.90666666
+AR_140
+ 1.3333333333333333 teaspoon baking soda
+ 1.0 cup white sugar
+ 1.0 cup packed brown sugar
+ 2.6666666666666665 cups semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 0.3333333333333333 cup flaked coconut
+ 2.0 cups miniature marshmallows
+ 3.111111111111111 cups all purpose flour
+ 1.3333333333333333 teaspoon ground cinnamon
+ 1.3333333333333333 cup butter
+ 1.3333333333333333 teaspoon vanilla extract
+ 0.584615374
+AR_141
+ 2.6666666666666665 cups semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 1.3333333333333333 cup packed brown sugar
+ 1.3333333333333333 teaspoon baking soda
+ 0.6666666666666666 cup chopped walnuts
+ 1.3333333333333333 teaspoon salt
+ 3.333333333333333 cups sifted all purpose flour
+ 1.3333333333333333 teaspoon vanilla extract
+ 1.3333333333333333 cup shortening
+ 0.784615374
+AR_142
+ 1.5 cup packed brown sugar
+ 2.0 teaspoon baking soda
+ 16.0 tablespoons butter
+ 4.0 eggs
+ 1.0 teaspoon salt
+ 3.0 cups all purpose flour
+ 1.5 cup white sugar
+ 24.0 ounces semisweet chocolate chips
+ 3.0 teaspoons vanilla extract
+ 0.671428585
+AR_144
+ 2.0 cup semisweet chocolate chips
+ 1.0 teaspoon baking soda
+ 2.0 egg
+ 2.0 teaspoon vanilla extract
+ 1.0 cup white sugar
+ 1.0 teaspoon salt
+ 1.0 cup butter flavored shortening
+ 1.0 cup chopped walnuts
+ 2.0 cup sifted all purpose flour
+ 1.0 cup butter softened
+ 1.0 cup packed brown sugar
+ 0.442857122
+AR_15
+ 1.0 teaspoon baking soda
+ 1.0 3.5 ounce package instant vanilla pudding mix
+ 2.25 cups all purpose flour
+ 0.25 cup white sugar
+ 1.0 cup margarine softened
+ 0.75 cup packed light brown sugar
+ 2.0 eggs
+ 2.0 cups semisweet chocolate chips
+ 1.0 teaspoon vanilla extract
+ 0.924302769
+AR_155
+ 2.6666666666666665 cups semisweet chocolate chips
+ 1.3333333333333333 3.4 ounce packages instant vanilla pudding mix
+ 3.0 cups all purpose flour
+ 1.3333333333333333 cups chopped walnuts optional
+ 1.3333333333333333 cups butter softened
+ 1.3333333333333333 teaspoons vanilla extract
+ 1.3333333333333333 teaspoons baking soda
+ 0.3333333333333333 cup white sugar
+ 2.6666666666666665 eggs
+ 1.0 cups packed brown sugar
+ 0.931135178
+AR_156
+ 3.0 cup unsalted butter melted
+ 2.0 teaspoon baking soda
+ 8.0 cups semisweet chocolate chips
+ 4.0 cup packed brown sugar
+ 2.0 cup white sugar
+ 4.0 egg yolk
+ 2.0 teaspoon salt
+ 4.0 tablespoon vanilla extract
+ 4.0 egg
+ 8.0 cups all purpose flour
+ 0.924294472
+AR_16
+ 2.2857142857142856 cups all purpose flour
+ 1.1428571428571428 teaspoons baking soda
+ 1.1428571428571428 cups white sugar
+ 1.1428571428571428 cups butter
+ 1.1428571428571428 cups packed brown sugar
+ 1.7142857142857142 cups dark chocolate chips
+ 2.2857142857142856 eggs
+ 6.857142857142857 ounce squares german sweet chocolate chopped
+ 0.5714285714285714 teaspoon vanilla extract
+ 2.8571428571428568 cups rolled oats
+ 0.5714285714285714 cup milk chocolate chips
+ 1.1428571428571428 teaspoons baking powder
+ 0.85882349
+AR_164
+ 1.0 teaspoon salt
+ 2.0 large eggs
+ 1.0 cup butter softened
+ 1.0 cup chopped nuts
+ 2.25 cups all purpose flour
+ 1.0 teaspoon vanilla extract
+ 0.75 cup granulated sugar
+ 1.0 teaspoon baking soda
+ 0.75 cup packed brown sugar
+ 2.0 cups nestle® toll house® semi sweet chocolate morsels
+ 0.917012405
+AR_169
+ 2.6666666666666665 cups semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 3.5555555555555554 cups all purpose flour
+ 1.3333333333333333 cup butter melted
+ 1.3333333333333333 teaspoon baking soda
+ 2.6666666666666665 cups brown sugar
+ 1.3333333333333333 teaspoon baking powder
+ 0.873728848
+AR_19
+ 0.6666666666666666 cup rolled oats
+ 1.3333333333333333 teaspoon vanilla extract
+ 0.6666666666666666 cup honey
+ 1.3333333333333333 cup milk chocolate chips
+ 1.3333333333333333 teaspoon salt
+ 1.3333333333333333 cup white sugar
+ 0.6666666666666666 cup crispy rice cereal
+ 2.6666666666666665 cups all purpose flour
+ 1.3333333333333333 cup jumbo semisweet chocolate chips
+ 1.3333333333333333 cup shortening
+ 0.6666666666666666 cup brown sugar
+ 1.3333333333333333 teaspoon baking soda
+ 2.6666666666666665 eggs
+ 0.880000019
+AR_195
+ 4.0 eggs
+ 2.0 cup semi sweet chocolate chips
+ 1.5 cup brown sugar
+ 2.0 cup butter softened
+ 6.0 cups all purpose flour
+ 0.585714293
+AR_196
+ 2.0 cups chopped walnuts
+ 2.6666666666666665 teaspoons vanilla extract
+ 0.6666666666666666 teaspoon salt
+ 3.0 cups all purpose flour
+ 1.3333333333333333 teaspoon baking soda
+ 1.3333333333333333 cup white chocolate chips
+ 2.6666666666666665 cups jumbo semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 1.3333333333333333 cup unsalted butter softened
+ 1.0 cup white sugar
+ 0.785929632
+AR_197
+ 2.0 teaspoon vanilla extract
+ 4.0 egg
+ 1.0 cup packed brown sugar
+ 2.0 teaspoon baking soda
+ 2.0 cup butter
+ 4.0 cup all purpose flour
+ 1.0 cup semisweet chocolate chips
+ 2.0 cup white sugar
+ 0.706521749
+AR_2
+ 0.6666666666666666 cup butter
+ 0.4444444444444444 cup packed brown sugar
+ 0.6666666666666666 teaspoon vanilla extract
+ 1.3333333333333333 cup semisweet chocolate chips
+ 0.6666666666666666 cup white sugar
+ 0.6666666666666666 cup rolled oats
+ 1.3333333333333333 cup all purpose flour
+ 0.3333333333333333 teaspoon salt
+ 1.3333333333333333 egg
+ 0.6666666666666666 cup peanut butter
+ 1.3333333333333333 teaspoon baking soda
+ 0.937981987
+AR_21
+ 4.666666666666666 cups all purpose flour
+ 2.6666666666666665 teaspoons salt
+ 2.6666666666666665 cups semisweet chocolate chips
+ 2.0 cups butter flavored shortening
+ 3.333333333333333 cups packed brown sugar
+ 2.0 teaspoons baking soda
+ 5.333333333333333 tablespoons milk
+ 1.3333333333333333 cup chopped walnuts
+ 2.6666666666666665 eggs
+ 2.6666666666666665 tablespoons vanilla extract
+ 0.881944466
+AR_218
+ 2.6666666666666665 cups all purpose flour
+ 0.6666666666666666 cup white sugar
+ 1.3333333333333333 teaspoon baking soda
+ 1.0 cup packed brown sugar
+ 0.6666666666666666 teaspoon salt
+ 1.3333333333333333 cup chopped walnuts
+ 1.7777777777777777 cups semisweet chocolate chips
+ 1.3333333333333333 egg
+ 1.3333333333333333 cup shortening
+ 3.333333333333333 teaspoons vanilla extract
+ 0.877419376
+AR_23
+ 0.5 cup butter softened
+ 1.0 teaspoon vanilla extract
+ 18.25 ounce yellow cake mix
+ 2.0 eggs
+ 2.0 cups semisweet chocolate chips
+ 0.869999981
+AR_256
+ 24 ounce bag chocolate chips
+ 4.0 eggs
+ 8.0 teaspoons vanilla extract
+ 2.0 teaspoon salt
+ 2.0 cup butter softened
+ 4.0 cups brown sugar
+ 2.0 teaspoon baking powder
+ 2.0 teaspoon baking soda
+ 12.0 tablespoons white sugar
+ 7.0 cups all purpose flour
+ 0.870253181
+AR_26
+ 3.0 cups semisweet chocolate chips
+ 1.0 teaspoon ground white pepper
+ 1.0 cup butter
+ 1.0 tablespoon vanilla extract
+ 0.75 cup white sugar
+ 2.5 cups all purpose flour
+ 2.0 eggs
+ 1.0 cup chopped walnuts
+ 0.5 teaspoon baking powder
+ 1.0 cup packed brown sugar
+ 0.5 teaspoon baking soda
+ 0.9
+AR_27
+ 2.0 cups white sugar
+ 1.0 cup butter softened
+ 0.6666666666666666 teaspoon salt
+ 2.6666666666666665 teaspoons ground cinnamon
+ 1.3333333333333333 egg
+ 4.333333333333333 cups all purpose flour
+ 0.6666666666666666 cup chopped walnuts
+ 2.0 cups finely chopped zucchini
+ 1.0 cup miniature semisweet chocolate chips
+ 2.6666666666666665 teaspoons baking powder
+ 2.0 teaspoons vanilla extract
+ 0.876923084
+AR_28
+ 2.0 cups semisweet chocolate chips
+ 1.0 teaspoon salt
+ 4.0 eggs
+ 1.0 cup flaked coconut
+ 4.5 cups all purpose flour
+ 4.0 teaspoons vanilla extract
+ 2.0 cups butter flavored shortening
+ 1.5 cups white sugar
+ 2.0 teaspoons baking soda
+ 1.5 cups packed brown sugar
+ 1.0 cup chopped macadamia nuts
+ 0.873333359
+AR_280
+ 0.5 cup rolled oats
+ 1.5 cups all purpose flour
+ 0.5 cup packed brown sugar
+ 0.5 cup white sugar
+ 0.25 teaspoon baking powder
+ 0.75 teaspoon baking soda
+ 0.5 cup white chocolate chips
+ 0.5 cup semisweet chocolate chips
+ 0.5 cup crispy rice cereal
+ nan
+AR_3
+ 1.0 3.5 ounce package instant vanilla pudding mix
+ 0.75 cup packed brown sugar
+ 0.25 cup white sugar
+ 1.0 teaspoon baking soda
+ 1.0 cup butter softened
+ 2.0 eggs
+ 2.0 cups semisweet chocolate chips
+ 2.25 cups all purpose flour
+ 1.0 teaspoon vanilla extract
+ 0.917986774
+AR_30
+ 0.5 cup butter softened
+ 1.0 cup semisweet chocolate chips
+ 0.5 cup chopped walnuts
+ 0.25 cup light brown sugar
+ 1.125 cups all purpose flour
+ 0.5 cup white sugar
+ 0.5 teaspoon baking soda
+ 1.0 teaspoon vanilla extract
+ 1.0 egg
+ 0.5 teaspoon salt
+ 0.859829044
+AR_32
+ 1.6 cups brown sugar
+ 0.8 teaspoon baking powder
+ 0.8 cup white sugar
+ 0.6000000000000001 cup margarine
+ 1.0 cups shortening
+ 0.8 teaspoon baking soda
+ 3.2 eggs
+ 3.2 cups semisweet chocolate chips
+ 1.6 teaspoons vanilla extract
+ 3.6 cups all purpose flour
+ 0.830769253
+AR_33
+ 0.3333333333333333 teaspoon salt
+ 1.3333333333333333 teaspoon baking soda
+ 0.6666666666666666 cup butter
+ 0.4444444444444444 cup candy coated chocolate pieces
+ 0.4444444444444444 cup peanut butter chips
+ 2.6666666666666665 teaspoons vanilla extract
+ 0.3333333333333333 cup chopped walnuts
+ 2.6666666666666665 eggs
+ 0.6666666666666666 cup semisweet chocolate chips
+ 3.333333333333333 cups all purpose flour
+ 2.6666666666666665 teaspoons honey
+ 0.6666666666666666 cup white sugar
+ 1.3333333333333333 cup packed brown sugar
+ 0.826666641
+AR_35
+ 1.3333333333333333 cup brown sugar
+ 2.0 teaspoon baking soda
+ 1.0 cup white sugar
+ 2.0 teaspoon vanilla extract
+ 2.0 cup butter softened
+ 2.0 cup coarsely chopped walnuts
+ 4.0 cup all purpose flour
+ 4.0 cup semisweet chocolate chips
+ 4.0 egg
+ 0.843636322
+AR_37
+ 2.6666666666666665 teaspoons baking soda
+ 32 ounce semisweet chocolate chips
+ 2.6666666666666665 eggs
+ 2.0 cups butter softened
+ 1.6666666666666665 cups white sugar
+ 5.333333333333333 cups all purpose flour
+ 1.3333333333333333 tablespoon vanilla extract
+ 1.3333333333333333 teaspoon salt
+ 2.0 cups packed brown sugar
+ 0.8
+AR_39
+ 1.0 cup coarsely chopped walnuts
+ 2.0 cups semisweet chocolate chips
+ 2.0 teaspoons vanilla extract
+ 1.0 teaspoon baking soda
+ 1.0 teaspoon baking powder
+ 1.0 cup white sugar
+ 2.0 cups quick cooking oats
+ 1.0 cup packed brown sugar
+ 2.0 tablespoons milk
+ 1.0 teaspoon salt
+ 2.0 eggs
+ 0.5 cup unsalted butter
+ 0.5 cup butter softened
+ 2.0 cups all purpose flour
+ 0.6
+AR_4
+ 1.0 teaspoon baking powder
+ 0.5 teaspoon salt
+ 1.0 teaspoon vanilla extract
+ 0.6666666666666666 cup milk chocolate chips
+ 0.6666666666666666 cup semisweet chocolate chips
+ 0.3333333333333333 cup chopped pecans
+ 0.6666666666666666 cup white chocolate chips
+ 1.0 cup white sugar
+ 0.3333333333333333 cup chopped walnuts
+ 2.0 eggs
+ 0.3333333333333333 cup chopped almonds
+ 1.0 cup butter
+ 1.0 teaspoon baking soda
+ 1.0 cup brown sugar
+ 2.5 cups all purpose flour
+ 0.922985077
+AR_43
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon vanilla extract
+ 4.0 eggs
+ 2.0 cup semisweet chocolate chips
+ 1.0 cup white sugar
+ 2.0 teaspoon almond extract
+ 2.0 cup vegetable oil
+ 5.0 cups all purpose flour
+ 2.0 cup packed brown sugar
+ 1.0 teaspoon salt
+ 0.828866005
+AR_45
+ 2.75 cups all purpose flour
+ 1.0 cup butter or margarine
+ 2.0 eggs
+ 2.0 cups semisweet chocolate chips
+ 0.75 cup packed brown sugar
+ 1.0 teaspoon vanilla extract
+ 0.75 cup white sugar
+ 1.0 teaspoon baking soda
+ 0.821052647
+AR_47
+ 2.0 teaspoon baking powder
+ 4.0 teaspoon vanilla extract
+ 4.0 cup butter flavored shortening
+ 4.0 teaspoon salt
+ 8.0 cups all purpose flour
+ 8.0 cups semisweet chocolate chips
+ 3.0 cup brown sugar
+ 3.0 cup white sugar
+ 8.0 eggs
+ 0.7125
+AR_48
+ 1.0 cup sour cream
+ 4.0 cups semisweet chocolate chips
+ 1.5 cup white sugar
+ 2.0 teaspoon baking powder
+ 4.0 eggs
+ 1.5 cup butter
+ 5.0 cups all purpose flour
+ 2.0 teaspoon vanilla extract
+ 1.5 cup packed brown sugar
+ 0.677777767
+AR_49
+ 1.0 cup packed brown sugar
+ 1.3333333333333333 teaspoon baking soda
+ 1.0 cup white sugar
+ 1.3333333333333333 teaspoon salt
+ 2.0 cups white chocolate chips
+ 2.0 cups milk chocolate chips
+ 2.6666666666666665 eggs
+ 2.333333333333333 cups all purpose flour
+ 1.3333333333333333 teaspoon vanilla extract
+ 1.3333333333333333 cup chopped walnuts
+ 1.6666666666666665 cups unsalted butter
+ 2.0 cups semi sweet chocolate chips
+ 0.592592573
+AR_5
+ 2.25 cups all purpose flour
+ 1.0 cup chopped walnuts
+ 1.0 cup butter softened
+ 1.0 teaspoon baking soda
+ 1.0 teaspoon vanilla extract
+ 0.75 cup packed brown sugar
+ 1.0 teaspoon salt
+ 2.0 cups semisweet chocolate chips
+ 2.0 eggs
+ 0.75 cup white sugar
+ 0.937341785
+AR_50
+ 2.0 teaspoons cream of tartar
+ 1.0 cup shortening
+ 2.0 cups milk
+ 2.0 cups white sugar
+ 2.0 cups semisweet chocolate chips
+ 4.0 eggs
+ 2.0 teaspoons baking powder
+ 2.0 teaspoons baking soda
+ 2.0 teaspoons vanilla extract
+ 6.0 cups all purpose flour
+ 0.66500001
+AR_52
+ 0.6666666666666666 cup semisweet chocolate chips
+ 1.3333333333333333 teaspoon vanilla extract
+ 0.6666666666666666 cup butter melted
+ 2.6666666666666665 cups basic cookie mix
+ 1.3333333333333333 egg
+ 0.476190472
+AR_53
+ 4.0 eggs
+ 1.0 cup white sugar
+ 2.0 cup packed brown sugar
+ 2.0 cup semisweet chocolate chips
+ 6.0 cups rolled oats
+ 4.0 cups all purpose flour
+ 2.0 teaspoon baking soda
+ 2.0 cup margarine
+ 2.0 cup milk
+ 2.0 teaspoon salt
+ 2.0 teaspoon vanilla extract
+ 0.692473125
+AR_54
+ 2.0 cup all purpose flour
+ 1.0 teaspoon baking soda
+ 4.0 egg white
+ 1.0 cup white sugar
+ 0.5 teaspoon salt
+ 2.0 teaspoon vanilla extract
+ 0.5 cup brown sugar
+ 1.0 cup semisweet chocolate chips
+ 0.5 cup applesauce
+ 0.723741007
+AR_55
+ 1.0 teaspoon salt
+ 1.5 cup packed brown sugar
+ 3.5 cups all purpose flour
+ 1.0 cup butter softened
+ 2.0 cup semisweet chocolate chips
+ 1.5 cup water
+ 4.0 eggs
+ 2.0 teaspoon baking soda
+ 1.5 cup white sugar
+ 0.385714293
+AR_57
+ 1.0 cup butter
+ 2.0 tablespoons milk
+ 2.0 eggs
+ 2.0 teaspoons vanilla extract
+ 1.0 teaspoon baking soda
+ 1.0 cup white sugar
+ 0.5 teaspoon salt
+ 1.0 cup packed brown sugar
+ 1.0 cup semisweet chocolate chips
+ 1.0 teaspoon baking powder
+ 2.0 cups all purpose flour
+ 0.595505619
+AR_66
+ 4.5 cups all purpose flour
+ 1.5 cup brown sugar
+ 2.0 cup butter flavored shortening
+ 4.0 eggs
+ 4.0 teaspoons mexican vanilla extract
+ 4.0 cups milk chocolate chips
+ 1.5 cup white sugar
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon salt
+ 0.902002907
+AR_67
+ 3.375 cups all purpose flour
+ 1.5 cup unsalted butter very soft
+ 1.875 teaspoons vanilla extract
+ 1.875 teaspoons kosher salt
+ 1.5 teaspoon baking soda
+ 0.75 cup light brown sugar
+ 1.5 large egg
+ 1.5 cup white sugar
+ 3.0 tablespoons milk
+ 3.0 cups semisweet chocolate chips
+ 0.939130402
+AR_69
+ 1.5 cup unsalted butter
+ 1.0 cup milk chocolate chips
+ 3.375 cups all purpose flour
+ 1.5 cup white sugar
+ 1.5 teaspoon vanilla extract
+ 1.0 cup white chocolate chips
+ 3.0 large egg
+ 1.5 teaspoon salt
+ 1.0 cup semi sweet chocolate chips
+ 0.75 cup packed light brown sugar
+ 1.5 teaspoon baking soda
+ 0.920792103
+AR_7
+ 1.0 teaspoon baking powder
+ 0.4444444444444444 cup white sugar
+ 1.3333333333333333 egg
+ 1.0 cup packed brown sugar
+ 0.6666666666666666 teaspoon baking soda
+ 2.2222222222222223 cups all purpose flour
+ 1.3333333333333333 teaspoon vanilla extract
+ 1.0 cup butter softened
+ 0.6666666666666666 teaspoon salt
+ 2.6666666666666665 cups milk chocolate chips
+ 0.896335125
+AR_70
+ 0.8 teaspoon baking powder
+ 1.2000000000000002 cups chopped walnuts
+ 0.8 teaspoon baking soda
+ 2.0 cups rolled oats
+ 0.8 cup butter softened
+ 1.6 eggs
+ 0.8 cup white sugar
+ 0.4 teaspoon salt
+ 0.8 teaspoon vanilla extract
+ 0.8 cup packed brown sugar
+ 3.2 ounces milk chocolate grated
+ 1.6 cups semisweet chocolate chips
+ 1.6 cups all purpose flour
+ 0.91003809
+AR_78
+ 1.0 teaspoon salt
+ 1.0 cup butter
+ 2.0 cups semisweet chocolate chips
+ 0.75 cup packed brown sugar
+ 0.75 cup white sugar
+ 1.0 teaspoon vanilla extract
+ 2.5 cups all purpose flour
+ 0.5 teaspoon baking powder
+ 1.0 teaspoon baking soda
+ 2.0 eggs
+ 0.915186214
+AR_79
+ 2.0 cup white sugar
+ 4.0 cups milk chocolate chips
+ 4.0 teaspoons vanilla extract
+ 4.0 teaspoons salt
+ 4.0 eggs
+ 1.0 cup brown sugar
+ 2.0 teaspoon baking powder
+ 5.0 cups all purpose flour
+ 2.0 cup butter
+ 0.633333349
+AR_8
+ 4.0 cups semisweet chocolate chips
+ 4.5 cups all purpose flour
+ 2.0 3.3 ounce package instant white chocolate pudding mix
+ 2.0 cup butter softened
+ 2.0 teaspoon salt
+ 4.0 teaspoons vanilla extract
+ 2.0 cup white sugar
+ 2.0 teaspoon baking soda
+ 1.5 cup brown sugar
+ 4.0 eggs
+ 0.942446041
+AR_84
+ 6.0 cups semisweet chocolate chips
+ 4.0 cup packed brown sugar
+ 7.0 cups all purpose flour
+ 8.0 teaspoons vanilla extract
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon salt
+ 12.0 tablespoons white sugar
+ 2.0 teaspoon baking powder
+ 6.0 teaspoons instant espresso coffee powder
+ 4.0 egg
+ 2.0 cup unsalted butter
+ 0.905737686
+AR_88
+ 0.75 cup butter or margarine softened
+ 12 ounce package semi sweet chocolate chips
+ 0.25 teaspoon salt
+ 2.0 teaspoons spice islands® pure vanilla extract
+ 0.75 cup brown sugar
+ 2.5 cups all purpose flour
+ 1.0 egg
+ 0.5 cup karo® light or dark corn syrup
+ 1.0 teaspoon baking soda
+ 0.955555534
+AR_89
+ 0.8 teaspoon vanilla extract
+ 0.6000000000000001 cup packed brown sugar
+ 1.6 eggs
+ 0.6000000000000001 cup white sugar
+ 1.8 cups all purpose flour
+ 0.8 cup butter flavored shortening
+ 0.8 cup semisweet chocolate chips
+ 0.8 cup white chocolate chips
+ 0.2 teaspoon salt
+ 0.8 teaspoon baking soda
+ 0.909890079
+AR_90
+ 2.0 teaspoon vanilla extract
+ 1.0 teaspoon salt
+ 1.5 cup white sugar
+ 2.0 teaspoon baking soda
+ 1.5 cup packed brown sugar
+ 2.0 cup butter chilled
+ 4.0 eggs
+ 5.0 cups all purpose flour
+ 2.0 cup semisweet chocolate chips
+ 0.902608681
+AR_91
+ 1.5 cup packed brown sugar
+ 2.0 cup chopped walnuts
+ 1.5 cup white sugar
+ 2.0 teaspoon vanilla extract
+ 2.0 tablespoon coffee flavored liqueur
+ 4.0 cups rolled oats
+ 1.0 cup shortening
+ 4.0 cups semisweet chocolate chips
+ 2.0 teaspoon salt
+ 1.0 cup butter softened
+ 4.0 eggs
+ 2.0 teaspoon baking soda
+ 4.0 cups all purpose flour
+ 0.928301907
+AR_95
+ 1.2000000000000002 teaspoon salt
+ 1.6 teaspoon baking soda
+ 1.6 cup butter softened
+ 4.0 cups all purpose flour
+ 3.2 eggs
+ 2.4000000000000004 cups packed brown sugar
+ 1.6 teaspoon baking powder
+ 1.6 tablespoon vanilla extract
+ 0.8 cup white sugar
+ 3.2 cups milk chocolate chips
+ 0.844067764
+AR_96
+ 0.6666666666666666 cup milk chocolate chips
+ 1.3333333333333333 teaspoon salt
+ 1.3333333333333333 cup white sugar
+ 2.333333333333333 cups all purpose flour
+ 1.3333333333333333 cup brown sugar
+ 0.6666666666666666 teaspoon ground cinnamon
+ 1.3333333333333333 teaspoon cream
+ 0.6666666666666666 cup butter softened
+ 1.3333333333333333 teaspoon baking soda
+ 0.3333333333333333 cup milk
+ 1.3333333333333333 teaspoon vanilla extract
+ 2.6666666666666665 eggs
+ 0.6666666666666666 cup crunchy peanut butter
+ 3.333333333333333 cups rolled oats
+ 0.818181801
+AR_97
+ 0.8 cup butter softened
+ 0.8 cup packed brown sugar
+ 0.4 cup white sugar
+ 1.2000000000000002 cups semisweet chocolate chips
+ 4.0 tablespoons kentucky bourbon
+ 1.6 eggs
+ 0.4 teaspoon salt
+ 1.2000000000000002 cups chopped pecans
+ 0.8 teaspoon baking soda
+ 1.8 cups all purpose flour
+ 0.933333302
+AR_98
+ 4.0 eggs
+ 2.0 cups white sugar
+ 5.8133333333333335 cups all purpose flour
+ 1.3333333333333335 cups butter
+ 0.04 cup baking soda
+ 1.4933333333333334 pounds semisweet chocolate chips
+ 2.0 cups packed brown sugar
+ 0.24 tablespoons salt
+ 0.05333333333333333 cup vanilla extract
+ 0.90666666
+AR_99
+ 1.0 cup chopped pecans
+ 2.0 cup sliced almonds
+ 2.0 egg
+ 36.5 ounce moist yellow cake mix
+ 1.0 cup butter
+ 2.0 cup semisweet chocolate chips
+ 0.858333302
+E_133
+ 1.0 cup semi sweet morsels
+ 1.0 egg
+ 0.5 teaspoon baking soda
+ 6.0 tablespoons granulated sugar
+ 1.0 cup plus 2 tablespoons all purpose flour
+ 6.0 tablespoons brown sugar
+ 0.5 teaspoon vanilla extract
+ 0.75
+E_146
+ 0.0888888888889 cup bittersweet chocolate chunks ideally about 72% cacao
+ 0.177777777778 cups unbleached bread flour
+ 0.0444444444444 cup valrhona chocolate pearls available at valrhona chocolate.com or chopped malted milk balls
+ 0.0888888888889 tablespoon vanilla extract
+ 0.133333333333 cups unbleached cake flour
+ 0.0888888888889 cup light brown sugar
+ 0.0888888888889 teaspoon baking soda
+ 0.0888888888889 cup granulated sugar
+ 0.266666666667 large eggs
+ 8 ounces unsalted butter room temperature
+ 0.5
+E_169
+ 48.0 tablespoon dark chocolate chips
+ 48.0 tablespoon pecan nuts lightly chopped or crumbled by hand
+ 48.0 rounded tablespoon vegan butter
+ 48.0 teaspoon vanilla extract
+ 96.0 tablespoons soft brown sugar
+ 192.0 tablespoons plain all purpose flour
+ 0.5
+E_197
+ 0.666666666667 teaspoon xanthan gum
+ 1.0 teaspoons baking soda
+ 0.666666666667 cup finely chopped walnuts optional
+ 1.33333333333 large eggs
+ 0.666666666667 tablespoon vanilla
+ 1.33333333333 cups brown rice flour mix
+ 0.666666666667 cup vegetable shortening preferably trans fat free plus additional for greasing baking sheets
+ 0.333333333333 cup packed brown sugar
+ 0.666666666667 cup granulated sugar
+ 0.333333333333 teaspoon salt
+ 8.0 ounces semisweet chocolate chips
+ 0.875
+E_21
+ 1.8 cup packed light brown sugar
+ 2.75 cups unsalted butter room temperature
+ 1.8 teaspoon kosher salt
+ 2.4 cup semi sweet or bittersweet chocolate chips
+ 1.2 teaspoon vanilla extract
+ 2.4 cup plus 2 tablespoons all purpose flour
+ 1.2 teaspoon baking powder
+ 0.6 cup sugar
+ 2.4 large egg room temperature
+ 0.75
+E_215
+ 1.0 cup 1 stick unsalted butter room temperature
+ 1.5 cup packed light brown sugar
+ 16.0 ounces semisweet or bittersweet chocolate do not exceed 72% cacao coarsely chopped
+ 2.0 teaspoon vanilla extract
+ 2.0 large egg
+ 0.5 cup powdered sugar
+ 1.0 cup sugar
+ 2.0 teaspoon baking powder
+ 0.5 teaspoon baking soda
+ 1.0 teaspoon kosher salt
+ 4.0 large egg yolks
+ 3.0 cups all purpose flour
+ 0.875
+E_220
+ 0.666666666667 cup granulated sugar
+ 4.0 cups old fashioned rolled oats
+ 1.33333333333 cup semisweet chocolate chips
+ 1.33333333333 large egg
+ 1.33333333333 teaspoon baking soda
+ 2.0 cups all purpose flour
+ 1.0 cup firmly packed light brown sugar
+ 0.666666666667 teaspoon salt
+ 1.33333333333 cup golden raisins
+ 1.33333333333 teaspoon vanilla
+ 1 cup unsalted butter softened
+ 0.75
+E_230
+ 2.57142857143 teaspoons vanilla
+ 5.14285714286 cups all purpose flour
+ 2.57142857143 teaspoons baking soda
+ 5.14285714286 large eggs
+ 2.57142857143 cups packed light brown sugar
+ 1.71 cups unsalted butter melted and cooled slightly
+ 2.57142857143 teaspoons salt
+ 1.71428571429 cup granulated sugar
+ 4.28571428571 cups semisweet chocolate chips
+ 0.875
+E_258
+ 1.0 cup sugar
+ 25.0 ounce milk chocolate chips
+ 4.0 large eggs
+ 1.0 teaspoon salt
+ 2.0 teaspoon baking soda
+ 4.0 cups old fashioned rolled oats
+ 3.5 cups all purpose flour
+ 2.0 cup chopped walnuts
+ 2.0 teaspoon vanilla extract
+ 2.0 cup packed golden brown sugar
+ 1.0 cup 1 stick butter room temperature
+ 0.75
+E_26
+ 1.8 cup sugar
+ 2.4 teaspoon salt
+ 1.8 cup packed golden brown sugar
+ 4.8 large eggs
+ 2.4 pound cups semisweet chocolate chips
+ 1.2 cup solid vegetable shortening
+ 1.2 cup 1 stick unsalted butter room temperature
+ 5.4 cups all purpose flour
+ 2.4 tablespoon sour cream
+ 3.6 teaspoons vanilla extract
+ 2.4 teaspoon baking soda
+ 0.875
+E_362
+ 0.333333333333 teaspoon baking soda
+ 0.666666666667 teaspoon kosher salt
+ 13.3333333333 tablespoons unsalted butter room temperature
+ 2.66666666667 large eggs
+ 1.33333333333 teaspoon baking powder
+ 1.0 cup packed light brown sugar
+ 2.0 cups all purpose flour
+ 1.33333333333 teaspoon vanilla extract
+ 1.0 cup granulated sugar
+ 10.6666666667 ounces chopped high quality semisweet chocolate or chocolate chips
+ 0.625
+E_375
+ 3.42857142857 cups all purpose flour
+ 0.571428571429 cup sugar
+ 2.28571428571 large eggs
+ 1.14285714286 teaspoon vanilla extract
+ 0.571428571429 cup solid vegetable shortening room temperature
+ 0.571428571429 cup 1 stick unsalted butter room temperature
+ 1.14285714286 teaspoon salt
+ 1.14285714286 teaspoon baking soda
+ 14.8571428571 ounce package semisweet chocolate chips
+ 1.14285714286 cup packed golden brown sugar
+ 0.75
+E_399
+ 4.36363636364 cups plain all purpose flour
+ 0.545454545455 teaspoon baking powder
+ 1.63636363636 cup white granulated sugar
+ 30.5454545455 tablespoons cold unsalted butter chopped
+ 3.70909090909 cup dark chocolate chopped
+ 2.18181818182 egg
+ 0.545454545455 teaspoon baking soda
+ 2.18181818182 teaspoon vanilla extract
+ 0.545454545455 teaspoon table salt
+ 2.18181818182 cup brown sugar
+ 4.36363636364 tablespoons milk
+ 1.0
+E_509
+ 0.24 teaspoon salt
+ 0.4 cups semisweet chocolate chips
+ 0.16 teaspoon baking soda
+ 0.32 large egg
+ 0.213333333333 cup packed light brown sugar
+ 0.32 cup all purpose flour
+ 0.2 cups unsalted butter softened
+ 0.16 teaspoon vanilla
+ 0.75
+E_79
+ 1.2 cup granulated sugar
+ 0.4 cup nestle's quik powder
+ 3.2 large eggs
+ 0.8 cup firmly packed light brown sugar
+ 1.6 teaspoon vanilla
+ 2.4 cups all purpose flour
+ 2.4 cups old fashioned rolled oats
+ 1.6 teaspoon baking soda
+ 0.8 teaspoon salt
+ 3.2 sticks 1 cup unsalted butter softened
+ 19.2 ounces miniature semisweet chocolate chips
+ 0.75
+E_87
+ 0.96 teaspoon vanilla extract
+ 9.6 ounces unsalted butter at room temperature
+ 11.52 ounces bitter chocolate chips or bitter chocolate cut in very small pieces
+ 0.96 cup vanilla sugar
+ 2.88 cups all purpose flour
+ 1.92 large eggs
+ 0.48 teaspoon baking soda
+ 0.75
+E_88
+ 4.0 cup firmly packed brown sugar
+ 2.0 teaspoon salt
+ 4.0 teaspoon baking soda
+ 4.0 cup granulated sugar
+ 16.0 eggs
+ 8.0 cup coarsely chopped walnuts
+ 8.0 tablespoon pure vanilla extract
+ 16.0 cups all purpose flour
+ 8.0 cup semisweet chocolate chips
+ 8.0 cup unsalted butter at room temperature
+ 0.375
+E_89
+ 2.0 large eggs at room temperature
+ 1.0 teaspoon salt
+ 2.5 cups all purpose flour
+ 1.0 cup 2 sticks unsalted butter cut into small cubes at room temperature
+ 0.75 cup packed light brown sugar
+ 2.0 cups bittersweet chocolate chunks or chips
+ 1.0 teaspoon pure vanilla extract
+ 1.0 teaspoon baking soda
+ 1.0 cup sugar
+ 0.875
+E_91
+ 0.8 teaspoon vanilla extract
+ 0.8 teaspoon baking soda
+ 1.6 large eggs
+ 0.6 cup packed brown sugar
+ 0.8 cup 2 sticks butter softened
+ 0.8 teaspoon salt
+ 1.8 cups all purpose flour
+ 0.6 cup granulated sugar
+ 0.8 cup chopped nuts
+ 1.6 cups nestl� toll house semi sweet chocolate morsels
+ 1.0
+Misc_1
+ 4.0 cup plus 2 tablespoons granulated sugar
+ 5.0 teaspoons baking soda
+ 6.0 teaspoons coarse salt
+ 3.3333 pounds bittersweet chocolate disks or fèves at least 60 percent cacao content see note
+ 8.0 teaspoons natural vanilla extract
+ 8.0 cups minus 2 tablespoons cake flour
+ 6.66666666667 cups bread flour
+ 5.0 cups light brown sugar
+ 6.0 teaspoons baking powder
+ 8.0 large eggs
+ 5.0 cups unsalted butter
+ nan
+Misc_10
+ 1.2 cup packed dark brown sugar
+ 3.6 cups all purpose flour
+ 1.2 cup sugar
+ 3.2 large eggs
+ 1.2 teaspoon baking soda
+ 1.6 teaspoon fine salt
+ 0.8 cup 1 stick unsalted butter
+ 1.6 12 ounce bag semisweet chocolate chips or chunks
+ 1.6 teaspoon pure vanilla extract
+ nan
+Misc_100
+ 4.44426666667 cups bread flour
+ 5.33333333333 large eggs
+ 2.66666666667 2.66666666667 /4 cups unsalted butter
+ 4.0 teaspoons coarse salt
+ 3.33333333333 pounds bittersweet chocolate disks or féves at least 60 percent cacao content see note
+ 5.33333333333 teaspoons natural vanilla extract
+ 2.33333333333 cups cake flour
+ 3.0 cups granulated sugar
+ 3.33333333333 teaspoons baking soda
+ 3.33333333333 cups light brown sugar
+ 4.0 teaspoons baking powder
+ nan
+Misc_101
+ 3.0 large egg yolk
+ 39.0 tablespoons of butter melted and cooled
+ 1.5 cup of granulated white sugar
+ 3.0 cup of semisweet chocolate chips
+ 6.0 cups of all purpose flour
+ 1.5 teaspoon of baking soda
+ 6.0 teaspoon of pure vanilla extract
+ 2.25 cup of firmly packed golden brown sugar
+ 3.0 teaspoon of kosher salt
+ 3.0 cup of milk chocolate chips plus more chocolate chips for topping cookies
+ 3.0 large egg
+ nan
+Misc_102
+ 4.0 tsp 5 ml baking soda
+ 4.0 cup 240 g of unsalted butter
+ 4.0 cup 150 g candied walnuts
+ 4.0 cup 150 g of toffee bits
+ 4.0 cup 150 g milk chocolate covered raisins
+ 8.0 eggs
+ 4.0 cup 150 g semi sweet chocolate chips
+ 7.0 cup 210 g flour
+ 4.0 tsp 5 ml salt
+ 4.0 tbsp 7.5ml vanilla
+ nan
+Misc_103
+ 2.66666666667 eggs
+ 1.33333333333 ⁄2 cups brown sugar packed
+ 0.666666666667 ⁄2 cup white sugar
+ 3.33333333333 ⁄2 cups all purpose flour
+ 1.33333333333 3 1/1.33333333333 ounce packages vanilla instant pudding mix
+ 2.66666666667 cups semi sweet chocolate chips
+ 1.33333333333 cups walnuts optional
+ 1.33333333333 cups butter softened
+ 1.33333333333 teaspoons baking soda
+ 1.33333333333 teaspoons vanilla extract
+ nan
+Misc_104
+ 4.0 cups 15 oz./470 g semisweet chocolate chips
+ 1.6 large egg
+ 1.6 tsp. vanilla extract
+ 2.0 cups 6 1/2 oz./200 g unbleached all purpose flour
+ 0.8 cup 1 stick/4 oz./125 g unsalted butter at room temperature
+ 0.8 tsp. salt
+ 0.8 cup 3 0.8 oz./105 g firmly packed light brown sugar
+ 1.6 tsp. baking soda
+ nan
+Misc_105
+ 8.0 tsp. vanilla extract
+ 2.0 tsp. salt
+ 8.0 egg
+ 8.0 cup semisweet chocolate chips
+ 2.66666666667 cup granulated sugar
+ 4.0 tsp. baking soda
+ 8.0 cup plus 2 tbs. all purpose flour
+ 4.0 cup firmly packed dark brown sugar
+ nan
+Misc_106
+ 1.33333333333 tsp. baking soda
+ 0.888888888889 cup granulated sugar
+ 1.33333333333 whole egg plus 1.33333333333 yolk
+ 2.66666666667 tsp. pure vanilla extract
+ 3.0 cups all purpose flour
+ 0.888888888889 cup firmly packed light brown sugar
+ 1.33333333333 tsp. kosher salt
+ 1.33333333333 cup walnut pieces
+ 1.33333333333 cup 2 sticks unsalted butter at room temperature
+ nan
+Misc_107
+ 2.0 cups 6 1/2 oz./200 g unbleached all purpose flour
+ 1.6 tsp. vanilla extract
+ 1.6 large egg
+ 4.0 cups 15 oz./470 g semisweet chocolate chips
+ 1.6 tsp. baking soda
+ nan
+Misc_108
+ 2.0 teaspoon baking soda
+ 2.5 cups all purpose flour
+ 1.0 cup white chocolate chips original recipe calls for 3/4 cup but i thought it was too much and reduced to 1.0 cup
+ 12.0 tablespoons granulated sugar
+ 2.0 cup semi sweet chocolate chips
+ 1.0 cup brown sugar packed
+ 1.0 teaspoon salt
+ 2.0 large egg
+ 1.5 cup milk chocolate chips
+ 1.0 cup unsalted butter at room temperature
+ 2.0 teaspoon vanilla extract
+ nan
+Misc_109
+ 4.0 large eggs
+ 4.0 cups flour
+ 2.0 cups butter
+ 2.0 cups sugar
+ 4.0 teaspoons baking soda
+ 2.0 tablespoons vanilla
+ 5.0 cups oatmeal put in blender and make into flour
+ 1.0 teaspoon salt
+ 2.0 cups packed brown sugar
+ 4.0 teaspoons baking powder
+ 8.0 ounces hershey bars grated
+ 3.0 cups nuts any kind of nuts optional
+ 2.0 12.0 ounce bags chocolate chips
+ nan
+Misc_11
+ 0.8 teaspoon vanilla extract
+ 0.8 teaspoon salt
+ 0.6 cup packed brown sugar
+ 0.8 cup chopped nuts
+ 0.6 cup granulated sugar
+ 1.6 large eggs
+ 0.8 teaspoon baking soda
+ 1.8 cups all purpose flour
+ 0.8 cup 2 sticks butter softened
+ 1.6 cups 12 oz. pkg. nestlé® toll house® semi sweet chocolate morsels
+ nan
+Misc_110
+ 21.0 ounces assorted dark milk or white chocolate not commercial chips roughly chopped
+ 1.5 large egg straight from the fridge
+ 1.5 teaspoon baking soda
+ 12.0 ounces unsalted butter soft but cool about 65°f 18°c
+ 0.1875 teaspoon grated nutmeg
+ 18.75 ounces all purpose flour such as gold medal
+ 0.75 ounce vanilla extract
+ 3.0 teaspoons diamond crystal kosher salt plus more for sprinkling; for table salt use about half as much by volume or the same weight
+ 12.0 ounces light brown sugar
+ 0.75 teaspoon baking powder
+ 10.875 ounces white sugar
+ nan
+Misc_111
+ 1.06666666667 cup unsalted butter melted and cooled at least 10 minutes 226g
+ 0.8 teaspoon salt
+ 1.86666666667 cup semisweet chocolate chips plus additional for tops optional 300g + additional
+ 1.6 teaspoon vanilla extract
+ 2.13333333333 teaspoons cornstarch
+ 1.33333333333 cup brown sugar tightly packed 250g
+ 2.93333333333 cups all purpose flour 350g
+ 0.533333333333 cup sugar 100g
+ 1.06666666667 teaspoon baking soda
+ 1.06666666667 large egg + 1.06666666667 yolks room temperature preferred*
+ nan
+Misc_112
+ 2.66666666667 cup granulated sugar
+ 5.33333333333 cups plus 3 tablespoons all purpose flour
+ 2.0 teaspoon baking soda
+ 2.66666666667 5 ounce block high quality milk chocolate chopped
+ 2.0 teaspoon salt
+ 0.888888888889 cup dark brown sugar
+ 0.888888888889 cup light brown sugar
+ 2.66666666667 5 ounce block high quality semisweet chocolate chopped
+ 5.33333333333 large eggs
+ 4.0 teaspoons vanilla extract
+ nan
+Misc_113
+ 2.85714285714 cups all purpose flour do not sift
+ 0.857142857143 cup light brown sugar – press brown sugar down when measuring
+ 1.14285714286 teaspoon baking soda
+ 1.14285714286 teaspoon salt
+ 2.28571428571 large eggs
+ 1.14285714286 cup salted butter/softened at room temperature
+ 1.14285714286 teaspoon pure vanilla extract
+ 0.857142857143 cup granulated sugar
+ nan
+Misc_114
+ 1.06666666667 cup granulated sugar
+ 1.6 teaspoon baking soda
+ 1.6 teaspoon pure vanilla extract
+ 3.2 large eggs
+ 1.2 cup packed light brown sugar
+ 3.6 cups all purpose flour
+ 2.4 sticks 12 tablespoons unsalted butter at room temperature
+ nan
+Misc_12
+ 3.0 cups all purpose flour see notes below
+ 4.5 cups semisweet chocolate chips i used ghiradelli semi sweet
+ 1.0 cup firmly packed light brown sugar
+ 12.0 tablespoons granulated sugar
+ 1.0 teaspoon salt
+ 1.0 cup unsalted butter see notes below room temperature
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon vanilla extract
+ 2.0 large egg
+ nan
+Misc_13
+ 2.66666666667 large eggs
+ 0.666666666667 teaspoon baking soda
+ 1.33333333333 teaspoon salt
+ 2.66666666667 cups about 12.66666666667 ounces semisweet and/or milk chocolate chips
+ 1.33333333333 cup packed light brown sugar
+ 2.66666666667 teaspoons pure vanilla extract
+ 3.0 cups all purpose flour
+ 1.33333333333 cup 2 sticks unsalted butter room temperature
+ 0.666666666667 cup granulated sugar
+ nan
+Misc_14
+ 2.30769230769 cups 247 grams lightly packed brown sugar
+ 3.69230769231 teaspoons vanilla
+ 5.53846153846 cups 380 grams all purpose flour
+ 0.923076923077 cup 100 grams granulated sugar
+ 1.84615384615 teaspoon baking soda
+ 3.69230769231 cups 340 grams semi sweet chocolate chips
+ 3.69230769231 large eggs at room temperature
+ 1.84615384615 teaspoon fine sea salt
+ nan
+Misc_15
+ 0.533333333333 cup sugar 100g
+ 1.06666666667 cup unsalted butter melted and cooled at least 10 minutes 226g
+ 1.06666666667 teaspoon baking soda
+ 1.6 teaspoon vanilla extract
+ 1.06666666667 large egg + 1.06666666667 yolks room temperature preferred*
+ 0.8 teaspoon salt
+ 1.33333333333 cup brown sugar tightly packed 250g
+ 2.13333333333 teaspoons cornstarch
+ 2.93333333333 cups all purpose flour 350g
+ 1.86666666667 cup semisweet chocolate chips plus additional for tops optional 300g + additional
+ nan
+Misc_16
+ 2.0 eggs
+ 0.833333333333 cups packed brown sugar
+ 2.83333333333 cups all purpose flour
+ 1.0 cups butter or margarine softened save $
+ 1.33333333333 teaspoons baking soda
+ 0.833333333333 cups granulated sugar save $
+ 0.666666666667 to 2 bags 12 oz each semisweet chocolate chips 2 to 4 cups
+ 0.333333333333 teaspoon salt
+ 1.33333333333 teaspoons vanilla
+ nan
+Misc_17
+ 1.0 teaspoon salt
+ 1.25 cups sugar
+ 1.0 12 ounce package 2 cups semi sweet chocolate chips
+ 1.0 teaspoon baking powder
+ 4.25 cups all purpose flour
+ 1.5 cups land o lakes® butter softened
+ 1.25 cups firmly packed brown sugar
+ 1.0 tablespoon vanilla
+ 2.0 large land o lakes® eggs
+ 1.0 teaspoon baking soda
+ nan
+Misc_18
+ 1.33333333333 large egg
+ 2.66666666667 cups king arthur unbleached all purpose flour
+ 2.66666666667 cups semisweet chocolate chips
+ 0.333333333333 teaspoon almond extract optional
+ 0.666666666667 cup vegetable shortening
+ 1.33333333333 teaspoon vinegar cider or white
+ 2.66666666667 teaspoons vanilla extract
+ 1.0 teaspoon salt use 1/2 teaspoon salt if you use salted butter
+ 0.888888888889 cup granulated sugar
+ 0.888888888889 cup light brown sugar firmly packed
+ 1.33333333333 teaspoon baking soda
+ 0.666666666667 cup unsalted butter right from the fridge or at room temperature
+ nan
+Misc_19
+ 3.0 cups chocolate chips i used half regular semisweet chips and half mini semisweet chips
+ 1.5 teaspoon baking powder
+ 1.5 teaspoon salt
+ 4.875 cups all purpose flour 415g
+ 0.375 cup maple syrup 60ml
+ 3.0 teaspoon cornstarch
+ 1.5 teaspoon vanilla extract
+ 2.25 cups light brown sugar packed 300g
+ 3.0 eggs room temperature preferred
+ 0.75 cup granulated sugar 100g
+ 1.5 teaspoon baking soda
+ 1.5 cup unsalted butter melted and then cooled for at least 5 minutes* 226g
+ nan
+Misc_2
+ 0.5 cup light brown sugar 0.5 cup packed
+ 4.0 ounces butter 4.0 ounces/1 stick
+ 0.25 teaspoon salt 0.25 teaspoon
+ 1.0 egg
+ 1.0 teaspoon vanilla 1.0 teaspoon
+ 8.0 ounces bittersweet chocolate 8.0 ounces cut in 1 inch pieces or use coins
+ 0.5 teaspoon baking soda 0.5 teaspoon
+ 1.5 cups all purpose flour 1.5 cups
+ 0.5 cup sugar 0.5 cup
+ nan
+Misc_20
+ 4.0 large eggs
+ 4.0 sticks 1 cup unsalted butter softened
+ 4.0 teaspoons vanilla extract
+ 0.666666666667 cup granulated sugar
+ 4.0 cups milk chocolate chips
+ 2.0 teaspoon baking soda
+ 5.0 cups all purpose flour
+ 1.5 teaspoon salt
+ 2.0 cup light brown sugar
+ 2.0 teaspoon baking powder
+ nan
+Misc_21
+ 4.0 ounces granulated sugar
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon kosher salt
+ 24.0 ounces bread flour
+ 16.0 ounces light brown sugar
+ 16.0 ounces unsalted butter
+ 2.0 large egg
+ 3.0 teaspoons vanilla extract
+ 24.0 ounces semisweet chocolate chips
+ 2.0 large egg yolk
+ 4.0 tablespoons whole milk
+ nan
+Misc_22
+ 0.75 cup granulated sugar
+ 1.0 cup packed dark brown sugar preferably molasses sugar
+ 5.0 ounces 55.0 percent chocolate cut into chip sized pieces about 1 1/4 cups
+ 5.0 ounces 70 to 72 percent chocolate cut into chip sized pieces about 1 1/4 cups
+ 2.0 large eggs
+ 0.5 pound 2 sticks cold unsalted butter cut into small pieces
+ 2.33333333333 cups plus 1 tablespoon all purpose flour
+ 0.75 teaspoon baking soda
+ 1.0 teaspoon kosher salt
+ nan
+Misc_23
+ 3.0 teaspoons pure vanilla extract
+ 4.0 large eggs
+ 2.0 5 ounce block semisweet chocolate chopped into chunks recommended: callebaut
+ 1.5 teaspoon baking soda
+ 1.5 teaspoon kosher salt
+ 0.666666666667 cup dark brown muscavado sugar
+ 2.0 cup granulated sugar
+ 4.0 cups plus 3 tablespoons all purpose flour
+ nan
+Misc_24
+ 0.666666666667 tablespoon vanilla
+ 0.666666666667 cup brown sugar
+ 2.0 ⁄4 cup white sugar
+ 2.0 ⁄4 teaspoon salt
+ 0.666666666667 cup walnuts chopped or 0.666666666667 cup pecans
+ 1.33333333333 large eggs slightly beaten
+ 2.0 ⁄4 teaspoon baking soda
+ 2.0 cups semi sweet chocolate chips
+ 0.666666666667 cup butter softened
+ 2.0 cups all purpose flour
+ nan
+Misc_25
+ 4.0 extra large eggs
+ 2.0 tsp. baking soda
+ 2.0 tsp. kosher salt
+ 2.0 tsp. pure vanilla extract
+ nan
+Misc_26
+ 2.5 teaspoons baking soda
+ 4.0 cups coarsely chopped walnuts toasted
+ 2.0 cup packed brown sugar
+ 5.33333333333 cups all purpose flour
+ 3.0 teaspoons vanilla extract
+ 4.0 large eggs
+ 2.0 cup butter softened
+ 2.0 package 12 ounces semisweet chocolate chips
+ 2.0 teaspoon salt
+ 1.5 cup sugar
+ nan
+Misc_27
+ 2.0 cup 200 grams packed brown sugar
+ 3.0 teaspoons vanilla extract
+ 4.0 cups 340 grams or 14.0 ounces chocolate chips
+ 5.0 cups 325 grams all purpose flour
+ 2.5 teaspoons baking soda
+ 2.0 teaspoon kosher salt
+ 4.0 large eggs at room temperature
+ 2.0 cup 200 grams granulated sugar
+ 32.0 tablespoons 230 grams unsalted butter at room temperature 2 sticks
+ nan
+Misc_28
+ 2.0 cup 200 grams granulated sugar
+ 2.0 teaspoon kosher salt
+ 32.0 tablespoons 230 grams unsalted butter at room temperature 2 sticks
+ 4.0 large eggs at room temperature
+ 2.5 teaspoons baking soda
+ 2.0 cup 200 grams packed brown sugar
+ 3.0 teaspoons vanilla extract
+ 4.0 cups chocolate chips
+ 5.0 cups all purpose flour
+ nan
+Misc_29
+ 16.0 tablespoons 1 1/2 sticks butter melted and cooled for 5 minutes
+ 1.33333333333 large egg
+ 1.33333333333 cup brown sugar
+ 0.666666666667 teaspoon baking soda
+ 1.33333333333 egg yolk when i double the recipe i do 3 eggs instead of 2 eggs and 2 yolks… it’s up to you
+ 0.666666666667 teaspoon salt
+ 2.0 cups semisweet chocolate chips
+ 2.66666666667 teaspoons vanilla
+ 0.666666666667 cup granulated sugar
+ 2.66666666667 cups plus 2.66666666667 tablespoons flour
+ nan
+Misc_3
+ 1.33333333333 egg plus 1 yolk
+ 1.33333333333 cup/150 grams bread flour
+ 1.33333333333 teaspoon/4 grams salt
+ 14.6666666667 tablespoons/150 grams unsalted butter melted
+ 0.0 cup/50.0 grams all purpose flour
+ nan
+Misc_30
+ 4.8 large eggs
+ 1.2 cup old fashioned oats
+ 2.4 tablespoon vanilla extract
+ 2.4 cup unsalted butter melted
+ 2.4 teaspoon salt
+ 3.6 cups chopped walnuts
+ 1.8 cup brown sugar packed
+ 0.6 teaspoon ground cinnamon
+ 5.4 cups all purpose flour
+ 2.4 teaspoon baking soda
+ 1.2 teaspoon lemon juice
+ 1.8 cup granulated sugar
+ 7.2 cups chocolate chips use your favorite kind
+ nan
+Misc_31
+ 1.6 cups semisweet chocolate pieces
+ 0.8 teaspoon vanilla
+ 0.4 teaspoon baking soda
+ 1.6 eggs
+ 0.4 cup granulated sugar
+ 1.2 cups chopped walnuts pecans or hazelnuts optional
+ 2.0 cups all purpose flour
+ 0.4 cup shortening
+ 0.8 cup packed brown sugar
+ 0.4 cup butter
+ nan
+Misc_32
+ 2.5 cup brown sugar
+ 3.0 cups semisweet chocolate chips
+ 2.0 tablespoon vanilla extract
+ 2.0 teaspoon baking soda
+ 2.0 teaspoon baking powder
+ 6.0 cups flour
+ 2.0 cup milk chocolate chips
+ 4.0 eggs
+ 2.0 cup butter 1/2 cup melted 1/2 cup softened
+ nan
+Misc_33
+ 0.72 cup sugar
+ 1.92 eggs
+ 0.72 cup brown sugar packed
+ 0.96 tsp vanilla extract
+ 1.92 cups chocolate chips semi sweet
+ 0.96 cup butter unsalted melted
+ 2.64 cup all purpose flour
+ 0.96 tsp baking soda
+ 0.24 tsp salt
+ nan
+Misc_34
+ 6.85714285714 teaspoon vanilla extract optional
+ 6.85714285714 cups 12oz/360g bittersweet chocolate chunks
+ 3.42857142857 cup 8 oz/240g butter
+ 8.57142857143 cups 12 1/2oz/375g all purpose flour/plain flour
+ 6.85714285714 large eggs*
+ 4.28571428571 cups 7 1/2oz/225g light brown sugar
+ 5.14285714286 teaspoon salt
+ 3.42857142857 teaspoon baking soda
+ nan
+Misc_35
+ 0.923076923077 teaspoon vanilla extract
+ 2.46153846154 cups all purpose flour
+ 0.461538461538 cup plus 2 tablespoons granulated sugar
+ 1.84615384615 large egg
+ 0.923076923077 teaspoon baking soda
+ 0.923076923077 teaspoon salt
+ 1.84615384615 cup high quality chocolate like guittard
+ 0.923076923077 cup 1 stick salted butter softened
+ 0.461538461538 cup plus 2 tablespoons packed brown sugar
+ nan
+Misc_36
+ 5.25 cups flour
+ 1.875 tsp baking soda
+ 2.25 tsp baking powder
+ 3.0 tsp vanilla extract
+ 1.875 cups real unsalted butter
+ 1.125 tsp salt
+ 1.5 cup plus 2 tbsp sugar
+ 3.0 large eggs
+ 1.875 cups dark brown sugar
+ nan
+Misc_37
+ 1.33333333333 cup milk chocolate chips
+ 1.33333333333 teaspoon baking soda
+ 1.33333333333 cup granulated sugar
+ 0.666666666667 cup light brown sugar
+ 2.66666666667 large eggs room temperature
+ 1.33333333333 teaspoon salt
+ 1.33333333333 tablespoon pure vanilla extract
+ 1.33333333333 cup semisweet chocolate chips
+ 0.666666666667 cup dark brown sugar
+ 4.0 cups all purpose flour
+ nan
+Misc_38
+ 6.4 teaspoons mccormick® pure vanilla extract
+ 1.6 package 12 ounces semi sweet chocolate chips
+ 2.0 cups granulated sugar
+ 1.6 teaspoon baking soda
+ 5.2 cups flour
+ 1.6 cup firmly packed light brown sugar
+ 1.6 cup chopped walnuts
+ 2.13333333333 cups butter softened
+ 1.2 teaspoon salt
+ 3.2 eggs
+ nan
+Misc_39
+ 0.8 teaspoon vanilla extract
+ 0.8 cup butter 2 sticks softened
+ 0.4 teaspoon salt
+ 0.8 cup nuts chopped optional
+ 1.6 cups hershey's milk chocolate chips 11.5 oz. pkg.
+ 1.6 1/4 cups all purpose flour
+ 0.8 teaspoon baking soda
+ 1.6 eggs
+ 0.6 cup light brown sugar packed
+ 0.6 cup granulated sugar
+ nan
+Misc_4
+ 7.2 cups/302 grams granulated sugar
+ 4.8 egg
+ 28.8 ounces/170 grams bittersweet chocolate about 60 percent cacao solids chopped into coarse pieces bits and shards
+ 7.2 teaspoons pure vanilla extract
+ 9.6 cups/256 grams all purpose flour
+ nan
+Misc_40
+ 1.0 cup 100 grams walnuts or pecans coarsely chopped optional
+ 0.5 teaspoon salt
+ 1.0 cup 2 sticks 226 grams unsalted butter room temperature
+ 1.0 teaspoon baking soda
+ 1.5 teaspoons pure vanilla extract
+ 2.25 cups 295 grams all purpose flour
+ 2.0 large eggs
+ 0.75 cup 150 grams granulated white sugar
+ 1.5 cups 270 grams semisweet chocolate chips
+ 0.75 cup 160 grams firmly packed light brown sugar
+ nan
+Misc_41
+ 0.6 cup 1 stick salted butter very soft
+ 2.7 cups all purpose flour
+ 2.4 cups semi sweet chocolate chips
+ 1.2 teaspoon vanilla extract
+ 2.4 large eggs
+ 1.2 teaspoon table salt
+ 0.9 cup packed brown sugar light or dark but we prefer dark!
+ 0.9 cup granulated sugar
+ 1.2 teaspoon baking soda
+ nan
+Misc_42
+ 1.6 cup butter softened
+ 3.2 cups semi sweet chocolate chips
+ 1.6 teaspoon baking soda
+ 3.2 teaspoons vanilla
+ 1.6 teaspoon salt
+ 4.8 cups flour
+ 1.6 cup brown sugar
+ 3.2 eggs
+ nan
+Misc_43
+ 1.26315789474 12 ounce package 2 cups semi sweet chocolate chips
+ 1.26315789474 teaspoon salt
+ 1.26315789474 cup 200 grams brown sugar
+ 1.26315789474 cup 230 grams unsalted butter softened to room temperature
+ 1.26315789474 teaspoon baking soda
+ 2.52631578947 large eggs room temperature
+ 2.52631578947 teaspoons pure vanilla extract
+ 2.52631578947 and 3/4 cups 345 grams all purpose flour spooned & leveled
+ nan
+Misc_44
+ 2.0 cup brown sugar
+ 1.0 teaspoon baking soda
+ 24.0 tablespoons butter 1 1/2 sticks melted and cooled until warm
+ 1.0 cup granulated sugar
+ 4.0 teaspoons vanilla extract
+ 3.0 cups semi sweet chocolate chips or milk chocolate
+ 2.0 large egg + 2.0 egg yolk
+ 1.0 teaspoon salt
+ 4.0 cups plus 4.0 tbsp all purpose flour
+ nan
+Misc_45
+ 0.666666666667 cup packed baker’s corner brown sugar
+ 0.666666666667 cup baker’s corner granulated sugar
+ 1.33333333333 teaspoon stonemill essentials pure vanilla extract
+ 1.33333333333 cup countryside creamery unsalted butter softened
+ 2.66666666667 cups baker’s corner all purpose flour
+ 1.33333333333 teaspoon baker’s corner baking soda
+ 2.66666666667 goldhen large eggs
+ 1.33333333333 teaspoon stonemill essentials iodized salt
+ 2.0 cups baker’s corner semi sweet chocolate chips
+ nan
+Misc_46
+ 0.666666666667 cup butter softened
+ 2.0 egg
+ 1.5 teaspoon salt
+ 0.666666666667 cup shortening
+ 2.0 teaspoon baking soda
+ 1.0 cup granulated sugar
+ 3.5 cup all purpose flour
+ 4.0 cups semi sweet or milk chocolate chips
+ 1.0 cup packed brown sugar i always use dark
+ 2.0 teaspoon vanilla
+ nan
+Misc_47
+ 0.571428571429 cup chopped walnuts optional
+ 0.428571428571 cup granulated sugar
+ 1.42857142857 cups unsifted all purpose flour
+ 0.571428571429 teaspoon vanilla
+ 0.571428571429 teaspoon salt
+ 1.14285714286 large eggs
+ 0.571428571429 cup butter softened
+ 0.571428571429 teaspoon baking soda
+ 1.14285714286 cups guittard real semisweet chocolate chips
+ 0.428571428571 cup firmly packed brown sugar
+ nan
+Misc_48
+ 0.666666666667 cup unsalted butter right from the fridge or at room temperature
+ 1.33333333333 teaspoon baking soda
+ 0.888888888889 cup granulated sugar
+ 2.66666666667 cups semisweet chocolate chips
+ 0.888888888889 cup light brown sugar firmly packed
+ 2.66666666667 teaspoons vanilla extract
+ 2.66666666667 cups king arthur unbleached all purpose flour
+ 1.0 teaspoon salt use 1/2 teaspoon salt if you use salted butter
+ 0.333333333333 teaspoon almond extract optional
+ 0.666666666667 cup vegetable shortening
+ 1.33333333333 teaspoon vinegar cider or white
+ 1.33333333333 large egg
+ nan
+Misc_49
+ 2.4 teaspoons coarse salt
+ 2.13333333333 pounds bittersweet chocolate discs
+ 3.2 cups minus 3.2 tablespoons cake flour
+ 3.2 large eggs
+ 2.66666666667 cups bread flour
+ 2.0 teaspoons baking soda
+ 2.0 cups 2 1/2 sticks butter at room temperature
+ 1.6 cup plus 2 tablespoons granulated sugar
+ 2.0 cups packed brown sugar
+ 3.2 teaspoons vanilla extract
+ 2.4 teaspoons baking powder
+ nan
+Misc_5
+ 1.45454545455 tablespoon kosher salt
+ 1.45454545455 tablespoon vanilla extract
+ 2.18181818182 cups packed light brown sugar
+ 2.90909090909 cups chopped toasted walnuts optional
+ 2.90909090909 cups all purpose flour
+ 2.90909090909 cups chopped bittersweet chocolate chunks and shavings
+ 2.90909090909 eggs
+ 1.81818181818 teaspoons baking soda
+ 11.6363636364 ounces butter softened
+ nan
+Misc_50
+ 3.0 cups regular semisweet chocolate chips
+ 2.0 cup large bittersweet chocolate chips
+ 2.0 teaspoon baking soda
+ 4.25 cups all purpose flour
+ 4.0 eggs
+ 2.0 teaspoon kosher salt
+ 2.0 cup 2 sticks unsalted butter room temperature
+ 3.0 cups walnuts finely chopped
+ 2.0 cup light or dark brown sugar tightly packed
+ 1.0 cup white sugar
+ 4.0 teaspoons vanilla extract
+ nan
+Misc_51
+ 2.13333333333 cups all purpose flour
+ 2.13333333333 cups bittersweet chocolate chopped into chips or store bought chocolate chips or chunks
+ 1.06666666667 teaspoon salt 1.06666666667 1.06666666667 /4 teaspoons if you really like salt
+ 2.13333333333 teaspoons pure vanilla extract
+ 0.8 teaspoon baking soda
+ 2.13333333333 large eggs
+ 0.711111111111 cup packed light brown sugar
+ 1.06666666667 cup finely chopped walnuts or pecans
+ 1.06666666667 cup sugar
+ 8.53333333333 ounces unsalted butter at room temperature
+ nan
+Misc_52
+ 1.2 teaspoons fine sea salt
+ 1.92 large eggs at room temperature
+ 0.72 teaspoon baking soda
+ 0.24 teaspoon ground coriander
+ 0.64 cup 91 grams whole wheat flour
+ 0.96 cup 200 grams sugar
+ 1.92 teaspoons pure vanilla extract
+ 1.68 cups 238 grams all purpose flour
+ 1.92 sticks 8 ounces; 1.92 1.92 6 grams unsalted butter cut into chunks at room temperature
+ 9.6 ounces 283 grams semisweet or bittersweet chocolate coarsely chopped or 1 2/3 cups chocolate chips
+ 0.24 teaspoon freshly grated nutmeg
+ 0.72 cup 150 grams packed light brown sugar
+ nan
+Misc_53
+ 6.0 teaspoons vanilla extract
+ 3.0 large egg
+ 3.0 large egg yolk
+ 3.0 teaspoon table salt
+ 42.0 tablespoons unsalted butter 1 3/4 sticks
+ 5.25 cups unbleached all purpose flour
+ 3.75 cups semisweet chocolate chips or chunks see note
+ nan
+Misc_54
+ 1.33333333333 teaspoon salt
+ 1.33333333333 tablespoon vanilla extract
+ 1.33333333333 cup coarsely chopped pecans
+ 1.0 cup crisco® butter flavor all vegetable shortening
+ 2.66666666667 cups pillsbury best™ all purpose flour
+ 1.33333333333 6 oz. package semi sweet chocolate chips 1.33333333333 cup
+ 1.33333333333 egg
+ 2.66666666667 tablespoons milk
+ 1.66666666667 cups firmly packed light brown sugar
+ 1.0 teaspoon baking soda
+ nan
+Misc_55
+ 0.571428571429 teaspoon baking powder
+ 1.14285714286 teaspoon flaky sea salt such as maldon or cypriot
+ 1.14285714286 teaspoon kosher salt
+ 1.14285714286 cup firmly packed light muscavado sugar or dark brown sugar
+ 2.28571428571 teaspoons pure vanilla extract
+ 1.14285714286 cup sugar
+ 2.85714285714 cups unbleached all purpose flour
+ 2.28571428571 extra large eggs room temperature
+ 2.28571428571 cups chocolate discs 53% to 64% cacao*
+ 1.14285714286 cup unsalted butter room temperature
+ 0.571428571429 teaspoon baking soda
+ nan
+Misc_56
+ 2.0 large egg at room temperature
+ 4.0 teaspoons cornstarch
+ 1.5 cup 150g packed dark brown sugar
+ 2.0 teaspoon baking soda
+ 2.0 and 1/4 cup 225g semi sweet chocolate chips
+ 0.5 cup 50g granulated sugar
+ 4.0 cups 250g all purpose flour spoon & leveled
+ 1.0 teaspoon salt
+ 4.0 teaspoons pure vanilla extract
+ nan
+Misc_6
+ 4.0 cups chopped toasted walnuts optional
+ 4.0 tablespoons milk
+ 28.0 tablespoons butter melted
+ 2.0 tablespoon kosher salt
+ 3.5 cups all purpose flour
+ 4.0 tablespoons light corn syrup
+ 2.0 tablespoon vanilla extract
+ 3.0 cups chopped bittersweet chocolate peasize pieces and shavings
+ nan
+Misc_60
+ 3.0 cups brown sugar
+ 4.0 cups all purpose flour
+ 3.0 cups chocolate chips
+ 2.0 tsp baking powder
+ 4.0 eggs whole
+ 2.0 tsp salt
+ 2.0 tsp vanilla extract
+ nan
+Misc_61
+ 1.0 cup butter or margarine softened
+ 2.25 cups unsifted flour
+ 0.75 cup brown sugar packed
+ 1.0 cup walnuts or pecans chopped optional
+ 0.5 teaspoon salt
+ 0.75 cup sugar
+ 2.0 large eggs
+ 1.0 teaspoon baking soda
+ 2.0 teaspoons vanilla
+ 11.5 ounces semi sweet chocolate baking chips contains milk
+ nan
+Misc_62
+ 4.0 eggs
+ 2.0 cup sugar
+ 3.0 cup all purpose flour
+ 3.5 cups dark chocolate chips
+ 2.0 teaspoon baking powder
+ 2.0 teaspoon baking soda
+ 2.0 cup butter softened
+ 2.0 cup brown sugar
+ 2.0 cup whole wheat flour
+ 2.0 teaspoon vanilla
+ nan
+Misc_63
+ 4.0 cups flour
+ 1.77777777778 cup chopped toasted walnut pieces optional
+ 1.33333333333 cup granulated sugar
+ 1.77777777778 large egg cracked into a small cup or saucer
+ 0.888888888889 cup white chocolate chips
+ 0.888888888889 teaspoon baking soda
+ 0.888888888889 cup milk chocolate chips
+ 1.77777777778 teaspoon baking powder
+ 1.77777777778 teaspoon vanilla extract
+ 0.888888888889 teaspoon salt
+ 1.77777777778 cup 2 sticks unsalted butter softened
+ 1.33333333333 cup light brown sugar
+ 0.888888888889 cup semisweet chocolate chips
+ nan
+Misc_64
+ 1.2 teaspoon pure vanilla extract
+ 2.4 large eggs beaten
+ 1.2 teaspoon water
+ 2.4 cups semisweet chocolate chips nestlé can’t really be beat
+ 0.9 cup dark brown sugar firmly packed
+ 1.2 cup 2 sticks lightly salted butter at room temperature
+ 1.2 teaspoon salt
+ 1.2 teaspoon baking soda
+ 0.9 cup granulated sugar
+ 2.4 cups unbleached all purpose flour
+ nan
+Misc_65
+ 1.0 egg
+ 0.75 cup packed light brown sugar
+ 1.0 teaspoon baking soda
+ 0.75 cup granulated sugar
+ 13.0 ounce package of chocolate chips
+ 2.25 cups all purpose flour
+ 1.0 teaspoon pure vanilla extract
+ 1.0 cup softened butter
+ 0.5 teaspoon salt
+ nan
+Misc_66
+ 2.4 sticks unsalted butter at room temperature 1 cup packed dark brown sugar 1/2.4 cup granulated sugar 1 teaspoon vanilla extract 1 large egg 2.4 3/4 cups all purpose flour kosher salt 1 1/4 teaspoons baking soda 12.4 ounces semisweet chocolate chips
+ nan
+Misc_67
+ 1.0 cup packed brown sugar
+ 2.0 cup quick cooking oats
+ 2.0 egg
+ 2.0 cup flour
+ 1.0 cup granulated sugar
+ 1.0 cup butter or margarine softened
+ 1.0 tsp. baking soda
+ 2.0 tsp. vanilla
+ 1.0 cup chopped planters pecans
+ nan
+Misc_68
+ 2.0 cup 170 g semisweet chocolate chips
+ 4.0 teaspoons vanilla extract
+ 1.0 teaspoon baking soda
+ 1.0 cup 99 g granulated sugar
+ 3.5 cups 210 g all purpose flour*
+ 2.0 large egg
+ 0.5 cup 54 g brown sugar packed
+ 1.0 cup 113 g butter
+ 1.0 teaspoon kosher salt
+ nan
+Misc_69
+ 6.0 cups all purpose flour more as needed – see video
+ 32.0 tablespoons of salted butter
+ 2.0 cup white sugar i like to use raw cane sugar with a coarser texture
+ 2.0 teaspoon baking soda
+ 4.0 egg
+ 3.0 cup chocolate chips i use a combination of chocolate chips and chocolate chunks
+ 4.0 teaspoon vanilla
+ 1.0 teaspoon salt but i always add a little extra
+ 1.0 cup packed light brown sugar
+ nan
+Misc_7
+ 2.4 cups packed light brown sugar
+ 1.6 teaspoon baking soda
+ 4.8 cups chopped bittersweet chocolate chunks and shavings
+ 1.6 tablespoon vanilla extract
+ 4.0 cups all purpose flour
+ 12.8 ounces butter softened
+ 3.2 teaspoons kosher salt
+ 4.8 eggs
+ 1.6 teaspoon baking powder
+ 3.2 cups chopped walnuts optional
+ nan
+Misc_70
+ 1.33333333333 cup granulated sugar
+ 0.666666666667 teaspoon baking powder
+ 1.33333333333 cup brown sugar light or dark
+ 1.33333333333 cup butter softened to cool room temperature not overly warm or melty
+ 1.33333333333 teaspoon baking soda
+ 1.33333333333 large egg
+ 2.66666666667 cups semisweet or milk chocolate chips or chocolate chunks
+ 3.33333333333 cups all purpose flour see note
+ 1.0 teaspoon salt
+ 2.66666666667 teaspoons vanilla extract
+ nan
+Misc_71
+ 3.69230769231 teaspoon baking powder
+ 4.61538461538 cups chocolate chips*
+ 7.38461538462 cups white whole wheat flour or regular whole wheat flour
+ nan
+Misc_72
+ 7.2 cups 297 g granulated sugar
+ 28.8 ounces 170 g bittersweet chocolate
+ 4.8 large egg
+ 9.6 cups 284 g all purpose flour
+ 9.6 tablespoons water
+ 7.2 teaspoons pure vanilla extract
+ nan
+Misc_73
+ 2.5 cups 60 percent dark chocolate chips
+ 1.0 tbsp unsulphured molasses
+ 2.0 eggs
+ 1.0 tsp baking powder
+ 1.0 cup room temperature unsalted butter
+ 1.75 cups granulated sugar
+ 1.5 tsp kosher salt
+ 1.0 cup tightly packed light brown sugar
+ 3.0 ¹⁄₃ cups unbleached all purpose flour
+ 2.0 tsp vanilla extract
+ 1.0 tsp baking soda
+ nan
+Misc_74
+ 1.33333333333 cup sugar
+ 1.33333333333 tsp. vanilla
+ 1.33333333333 tsp. salt
+ 1.33333333333 cup brown sugar
+ 1.33333333333 tsp. baking soda
+ 2.66666666667 eggs
+ 1.33333333333 tsp. baking powder
+ 2.66666666667 cups milk chocolate chips
+ 4.0 cups flour
+ nan
+Misc_75
+ 2.66666666667 teaspoons baking powder
+ 2.66666666667 teaspoons baking soda
+ 21.3333333333 ounces dark chocolate chunks
+ 5.92592592593 cups all purpose flour
+ 0.888888888889 cup granulated sugar
+ 1.77777777778 cup unsalted butter melted and cooled slightly
+ 3.55555555556 teaspoons vanilla extract
+ 0.888888888889 teaspoon salt
+ 2.66666666667 cups firmly packed brown sugar
+ 3.55555555556 large eggs
+ nan
+Misc_76
+ 2.0 cup unsalted butter cold
+ 2.0 teaspoon baking soda
+ 2.0 cup brown sugar packed
+ 4.0 large or extra large eggs room temperature
+ 7.0 cups all purpose flour
+ 4.0 cups semi sweet or dark chocolate chips
+ 2.0 cup granulated sugar
+ 2.0 teaspoon salt
+ 2.0 teaspoon baking powder
+ 2.0 teaspoon vanilla
+ nan
+Misc_77
+ 3.42857142857 each eggs
+ 1.14285714286 teaspoon salt
+ 9.14285714286 ounce bars chocolate chopped
+ 1.14285714286 teaspoon baking powder
+ 1.14285714286 tablespoon vanilla extract
+ 4.57142857143 cups all purpose flour
+ 2.66285714286 cups light brown sugar
+ 10.2857142857 ounces butter
+ 1.14285714286 teaspoon baking soda
+ nan
+Misc_78
+ 2.4 teaspoon | 5g baking soda
+ 2.4 teaspoon vanilla extract
+ 2.4 cup | 200g chocolate chips
+ 2.4 egg
+ 4.0 cup | 200g all purpose flour
+ nan
+Misc_79
+ 3.42857142857 teaspoon baking soda
+ 6.85714285714 cups all purpose flour
+ 3.42857142857 large egg
+ 3.42857142857 teaspoon vanilla extract
+ 2.57142857143 cup light brown sugar packed
+ 2.57142857143 cup unsalted butter softened 1 1/2 sticks
+ 0.857142857143 cup granulated sugar
+ nan
+Misc_8
+ 0.872727272727 teaspoon vanilla
+ 0.872727272727 teaspoon baking powder
+ 0.872727272727 cup dark brown sugar packed
+ 0.872727272727 teaspoon baking soda
+ 0.872727272727 cup butter
+ 10.4727272727 ounces chocolate chips
+ 4.36363636364 ounce milk chocolate bar
+ 0.872727272727 cup granulated sugar
+ 1.30909090909 cups chopped nuts
+ 1.74545454545 eggs
+ 2.18181818182 cups oatmeal
+ 1.74545454545 cups flour
+ nan
+Misc_80
+ 2.0 teaspoon baking soda
+ 2.0 cup salted butter
+ 2.0 cup granulated sugar
+ 4.0 generous teaspoon vanilla
+ 6.0 cups all purpose flour use the spoon and level method
+ 2.0 3/4 cup semi sweet chocolate chips
+ 1.0 teaspoon salt
+ 4.0 egg
+ 1.0 cup light brown sugar dark brown is fine too
+ nan
+Misc_81
+ 2.66666666667 large egg
+ 2.66666666667 additional egg yolk
+ 2.66666666667 cup semisweet chocolate chips
+ 2.66666666667 cup milk chocolate chips
+ 2.66666666667 tablespoon vanilla extract
+ 1.33333333333 teaspoon salt
+ 1.33333333333 cup granulated sugar
+ 2.0 cup 1 1/2 sticks unsalted butter melted
+ 1.33333333333 teaspoon baking soda
+ 5.33333333333 cups all purpose flour
+ 2.66666666667 cup light brown sugar
+ nan
+Misc_82
+ 1.14285714286 cup white sugar
+ 1.71428571429 tablespoon vanilla
+ 5.14285714286 1 2/3 cup all purpose flour use more if needed see post for details
+ 0.857142857143 1/2 teaspoon salt
+ 3.42857142857 egg
+ 1.71428571429 teaspoon baking soda
+ 1.71428571429 cup butter melted
+ 2.28571428571 cup chocolate chips
+ 1.71428571429 cup packed brown sugar light or dark
+ nan
+Misc_83
+ 2.0 tsp vanilla
+ 2.0 eggs
+ 2.25 cup flour
+ 0.75 cup sugar
+ 0.5 tsp salt
+ 0.75 cup brown sugar
+ 1.0 tsp baking soda
+ 0.75 cup butter softened
+ nan
+Misc_84
+ 3.69230769231 egg
+ 3.69230769231 egg yolk
+ 6.46153846154 cups all purpose flour
+ 3.69230769231 tsp salt
+ 44.3076923077 tbsp unsalted butter
+ 4.61538461538 cups chocolate chips
+ 7.38461538462 tsp vanilla extract
+ nan
+Misc_85
+ 2.66666666667 cups semi sweet chocolate chips
+ 0.888888888889 cup granulated sugar
+ 0.666666666667 teaspoon salt
+ 2.66666666667 cups king arthur unbleached all purpose flour
+ 0.666666666667 cup vegetable shortening
+ 0.888888888889 cup light brown sugar firmly packed
+ 0.666666666667 cup unsalted butter at room temperature
+ 1.33333333333 large egg
+ 0.333333333333 teaspoon almond extract
+ 1.33333333333 teaspoon vinegar cider or white
+ 1.33333333333 teaspoon baking soda
+ 2.66666666667 teaspoons vanilla extract
+ nan
+Misc_86
+ 4.0 teaspoon baking soda
+ 4.0 cup semisweet chocolate chips
+ 8.0 teaspoons cornstarch
+ 2.0 cup butter softened to room temperature
+ 1.0 teaspoon salt
+ 2.0 cup brown sugar packed
+ 6.0 cup all purpose flour
+ 8.0 teaspoons vanilla extract store bought or homemade
+ 4.0 egg
+ 1.33333333333 cup granulated sugar
+ nan
+Misc_87
+ 8.0 cups all purpose flour
+ 4.0 tbsp vanilla extract
+ 4.0 tsp baking soda
+ 8.0 tsp cornstarch
+ 4.0 cup brown sugar
+ 4.0 tsp instant espresso powder
+ 4.0 egg + 4.0 egg yolk
+ nan
+Misc_89
+ 0.857142857143 cup packed brown sugar
+ 3.42857142857 large egg
+ 5.14285714286 cups all purpose flour
+ 1.71428571429 cup sugar
+ 3.42857142857 cup chocolate chips
+ 0.857142857143 tsp salt
+ 1.71428571429 cup 1 stick butter
+ 1.71428571429 tsp baking soda
+ 3.42857142857 tsp vanilla extract
+ nan
+Misc_9
+ 1.0 package 12 ounces semisweet chocolate chips 2 cups
+ 0.5 teaspoon salt
+ 0.75 cup granulated sugar
+ 1.0 egg
+ 1.0 cup butter or margarine softened
+ 2.25 cups gold medal™ all purpose flour
+ 1.0 cup coarsely chopped nuts
+ 0.75 cup packed brown sugar
+ 1.0 teaspoon baking soda
+ 1.0 teaspoon vanilla
+ nan
+Misc_90
+ 2.4 tsp. kosher salt
+ 4.8 tsp. vanilla extract
+ 4.8 12 ounce bags semi sweet chocolate chips
+ 4.8 ⁄2 cups unsalted butter softened
+ 7.2 eggs
+ 4.8 ⁄4 cups granulated sugar
+ 4.8 tsp. baking soda
+ 4.8 ⁄4 cups packed light brown sugar
+ 12.0 ⁄4 cups flour
+ nan
+Misc_91
+ 1.0 egg + 1.0 yolk room temperature
+ 1.0 cup 2 sticks unsalted butter melted and cooled
+ 2.0 1/4 cups all purpose flour spooned and leveled
+ 2.0 3 cups mini or regular semisweet chocolate chips or 1 cup each semisweet peanut butter and white chocolate chips
+ 1.0 tbsp vanilla extract
+ 0.5 cup white sugar
+ 1.0 tsp baking soda
+ 1.0 tsp salt
+ 1.0 cup packed dark brown sugar
+ nan
+Misc_92
+ 2.66666666667 egg
+ 4.66666666667 cups all purpose flour
+ 5.33333333333 tablespoons nonfat milk powder
+ 3.33333333333 teaspoons kosher salt
+ 5.33333333333 teaspoons vanilla extract
+ 32.0 ounces semisweet chocolate chips
+ nan
+Misc_93
+ 1.33333333333 cup brown sugar packed
+ 1.33333333333 teaspoon kosher salt
+ 1.33333333333 cup sugar
+ 2.0 cups chocolate chips
+ 1.33333333333 cup butter
+ 4.0 cups flour
+ 2.66666666667 eggs
+ 1.33333333333 tablespoon vanilla
+ nan
+Misc_94
+ 2.5 cups cake flour
+ 1.66666666667 cups packed light brown sugar
+ 2.22222222222 cupsbread flour
+ 2.66666666667 teaspoons mccormick vanilla extract
+ 2.0 teaspoons baking powder
+ 2.0 teaspoons coarse salt
+ 1.66666666667 pounds chocolate chips or chunks original recipe calls for chopped dark chocolate
+ 1.66666666667 cups 284g unsalted butter
+ 2.66666666667 large eggs room temperature
+ 1.5 cups granulated sugar
+ 1.66666666667 teaspoons baking soda
+ nan
+Misc_95
+ 2.66666666667 eggs
+ 2.66666666667 tsp. vanilla extract
+ 1.33333333333 tsp. cornstarch
+ 1.66666666667 tsp. salt
+ 1.66666666667 tsp. baking soda
+ nan
+Misc_96
+ 1.8 cup 100 g chopped nuts or any other add ins optional
+ 0.6 cup 50 g raw sugar i use demerara substitute with granulated sugar if you'd like
+ 1.2 tsp salt
+ 2.4 tsp vanilla extract
+ 1.2 cup 115 g unsalted butter softened at room temperature
+ 2.4 large egg
+ 1.8 tsp baking soda
+ 1.8 cup 150 g packed light brown sugar
+ 4.2 cup 220 g all purpose flour
+ nan
+Misc_97
+ 5.14285714286 cup unbleached all purpose flour
+ 1.82856685714 cup unsalted butter
+ 2.13332571429 cup light brown sugar
+ 2.05714285714 tsp table salt
+ 1.37142857143 cup granulated sugar
+ 1.37142857143 tsp. baking soda
+ 2.74285714286 large eggs
+ nan
+Misc_98
+ 2.0 large egg plus 2.0 egg yolk
+ 4.0 teaspoons vanilla extract
+ 4.0 sticks 1 cup unsalted butter
+ 2.0 cup semi sweet chocolate chips or chunks
+ 2.0 teaspoon baking soda
+ 4.5 cup all purpose flour
+ 2.5 cup packed dark brown sugar
+ nan
+Misc_99
+ 2.66666666667 cup 2 sticks unsalted butter softened *see notes
+ 2.66666666667 teaspoon salt i prefer coarse sea salt
+ 5.33333333333 cups or 1 12 oz. pkg. chocolate chips
+ 2.66666666667 tablespoon vanilla extract
+ 2.0 cup packed light brown sugar
+ 5.33333333333 large eggs cold
+ 2.66666666667 teaspoon baking soda
+ 7.33333333333 cups all purpose flour* plus a tablespoon or two if needed
+ 2.0 cup granulated sugar
+ nan
